@@ -1,5 +1,5 @@
 
-# Welcome To Frietor 👋
+# Welcome To Frietor 👋 By [@Esportzvio](https://www.github.com/esportzvio)
 
 Frietor is a 🌐 web3 ecosystem built on the Polygon blockchain that aims to support the creators economy. It includes a number of different platforms and features, including:
 
